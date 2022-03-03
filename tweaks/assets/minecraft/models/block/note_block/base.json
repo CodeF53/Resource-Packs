@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench by Fran",
+	"parent": "block/cube",
+	"textures": {
+		"down": "custom/note_block/note_block",
+		"up": "custom/note_block/note_block",
+		"north": "custom/note_block/note_block_side",
+		"south": "custom/note_block/note_block_side",
+		"west": "custom/note_block/note_block_side",
+		"east": "custom/note_block/note_block_side",
+		"particle": "custom/note_block/note_block"
+	}
+}

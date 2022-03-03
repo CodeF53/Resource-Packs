@@ -1,0 +1,61 @@
+My own Additions:
+	Remove Nausea/Sickness Overlay
+	
+Edits:
+	Noteblock Displays
+		Squared off edges of 'display', removed noise from 'display'
+	Cleaner Maps
+		Squared off corners, removed checkerboard, made map scribble look nice
+	Clean Redstone
+		Edited 'dust dot' to make it not show when redstone is a cross, because I dont like the circles in the centers
+	Visible Tripwires
+		Make Clean, like redstone
+
+Other Addons:
+	https://www.planetminecraft.com/texture-pack/noteblock-displays/
+	https://www.planetminecraft.com/texture-pack/noobikcat-s-better-end-portal-frame/
+	https://www.planetminecraft.com/texture-pack/cleaner-maps/
+	~~https://www.planetminecraft.com/texture-pack/visual-leaf-decay/~~  --removed because it caused issues with distant horizons
+
+Vanilla Tweaks Addons:
+	SidewaysNuggets (Vertical Iron Nugget)
+	DifferentStems
+	SplashXpBottle
+	ShorterGrass
+	ShorterTallGrass
+	SmoothDirt
+	ClearerWater
+	RedstonePowerLevels
+	VisibleTripwires
+	VisualHoney
+	ArabicNumerals
+	VisualSaplingGrowth
+	CleanRedstoneDust
+	BetterObservers
+	DiminishingTools
+	ClearBannerPatterns
+	DirectionalHoppers
+	StickyPistonSides
+	LowerShield
+	LowerFire
+	TransparentPumpkin
+	SmallerUtilities
+	InvisibleTotem
+	AlternateEnchantGlint
+	NoVignette
+	UnobtrusiveScaffolding
+	CleanerWorldBorder
+	VillagerCloakFix
+	QuieterWater
+	QuieterNetherPortals
+	QuieterEndermen
+	QuieterPistons
+	QuieterCows
+	QuieterShulkers
+	NoCaveSounds
+	QuieterRain
+	QuieterDispensersDroppers
+	QuieterGhasts
+	QuieterMinecarts
+	QuieterVillagers
+	QuieterFire
